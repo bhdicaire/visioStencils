@@ -1,16 +1,17 @@
+![Logo](https://github.com/bhdicaire/visioStencils/raw/main/Documents/header.png "Logo")
+![GitHub last commit](https://img.shields.io/github/last-commit/bhdicaire/visioStencils?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE)
+
 # Everything you always wanted to know about my visio artefacts but were afraid to ask
 
-![Logo](https://github.com/bhdicaire/visioStencils/raw/main/header.png "Logo")
-![GitHub last commit](https://img.shields.io/github/stars/bhdicaire/visioStencils?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE)
-![GitHub forks](https://img.shields.io/github/forks/bhdicaire/visioStencils?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE)
-![GitHub last commit](https://img.shields.io/github/last-commit/bhdicaire/visioStencils?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE)
-![GitHub licence](https://img.shields.io/github/license/bhdicaire/visioStencils?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE)
-![Visio stencils](https://img.shields.io/badge/visio_shapes-2,965-186ADE)
-![Vision templates](https://img.shields.io/badge/visio_templates-72-186ADE)
-![Visio documents](https://img.shields.io/badge/visio_documents-255-186ADE)
+[Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio) has a big [user community](https://techcommunity.microsoft.com/t5/visio/ct-p/Visio), you can find them on many platforms including [reddit](https://www.reddit.com/r/Visio/).
 
-> Obviously, I don't remember all the sources – refer to [Stencils](stencils.md) for more information. If you don't find something, try third party commercial shape vendors such as [3DN](https://3d-networking.com/3d-symbols/), [NetZoom](www.NetZoom.com), [Shape Source](www.shapesource.com), or [Visimation](www.visimation.com).
+I try to keep my visio artefacts as _fresh_ as possible by manually accessing the vendors website on a regular basis. Refer to the source section below for more information.
 
+I normalize filenames to keep my sanity:
+ * Replace all dashes and underscores with a space
+ * Add the vendor name as prefix
+ * Add the version as suffix usually in the v[year][month] format
+ 
 There is 600 current IT stencils, sadly most vendors does not update them frequently. You'll find items from Cisco, CommScope, Dell, D-Link, Extreme Network, Fortinet, HPE, Juniper, Kubernetes, Lenovo, Microsoft, Palo Alto Networks, Penguin, Qumulo, Sitecore, Sophos, Synology, TP-Link, Unquiti, , Veeam, VMWare, and ZScaler. There is also cloud related stencils from Alibaba, Azure, and IBM. I'm still looking for AWS and GCP.
 
 Computer rack stencils include CyberPower, Datwylerm, Eaton, HellermannTyton, GarlandTech, Panduit, R&M, Raritan, Systimax, Tripp Lite and Uniprise.
@@ -18,6 +19,9 @@ Computer rack stencils include CyberPower, Datwylerm, Eaton, HellermannTyton, Ga
 This repository also include more than 1100 IT stencils older than 2019 because I have them and organizations are still using them. You'll find items from 3Com, Adtran, Avaya, Avocent, BlueCat, BlueSocket, Chatsworth, Dell, Extreme Network, F5, Foundry, IronPort, Juniper, Linksys, Netgate PFSense, Nortel, Palo Alto Network, Polycom, QNAP, Radware, Riverbed Network, SonicWall, Sourcefire, TippingPoint, Vyatta, and ZyXel.
 
 IT Methodologies stencils include ADAPT v3, Archimate, BPMN, C4, CORAS, CMMN, DMN, IDEF5, TOGAF and UML.
+
+
+ If you don't find something, try third party commercial shape vendors such as [3DN](https://3d-networking.com/3d-symbols/), [NetZoom](www.NetZoom.com), [Shape Source](www.shapesource.com), or [Visimation](www.visimation.com).
 
 
 
@@ -53,14 +57,7 @@ https://download.emc.com/downloads/DL70823_Unity_Visio_Stencils.zip?source=OLS
 
 
 --
-[Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio) has a big [user community](https://techcommunity.microsoft.com/t5/visio/ct-p/Visio), you can find them on many platforms including [reddit](https://www.reddit.com/r/Visio/).
 
-I try to keep my visio artefacts as _fresh_ as possible by manually accessing the vendors website on a regular basis. Refer to the source section below for more information.
-
-I normalize filenames to keep my sanity:
- * Replace all dashes and underscores with a space
- * Add the vendor name as prefix
- * Add the version as suffix usually in the v[year][month] format
 
 ## Source
 
