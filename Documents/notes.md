@@ -5,9 +5,9 @@
 
 [Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio) has a big [user community](https://techcommunity.microsoft.com/t5/visio/ct-p/Visio), you can find stencils on many platforms including [reddit](https://www.reddit.com/r/Visio/). If you don't find something, try third party commercial shape vendors such as [3DN](https://3d-networking.com/3d-symbols/), [NetZoom](www.NetZoom.com), [Shape Source](www.shapesource.com), or [Visimation](www.visimation.com).
 
-I try to keep my artefacts as _fresh_ as possible by manually accessing the vendors website on a regular basis. 
- 
-There is 600 IT stencils, sadly most vendors does not update them frequently. This repository also include more than 1100 IT stencils older than 2019 because I have them and organizations are still using them.
+I try to keep my artefacts as _fresh_ as possible by manually downloading them on a regular basis, sadly most vendors does not update them frequently. Furthermore, many stencils are only available to current customers via their support portal.
+
+The repository also include more than 1,200 IT stencils older than 2019 because I have them and organizations are still using them.
 
 ## Electronic
 
@@ -67,7 +67,7 @@ There is 600 IT stencils, sadly most vendors does not update them frequently. Th
 * [Imperva](https://www.imperva.com/blog/securesphere-visio-stencil-html/)
 * [Infoblox](https://community.infoblox.com/cixhp49439/attachments/cixhp49439/IPAM/3616/1/Infoblox%20Shapes%202017.vssx.zip)
 * [Juniper](https://www.juniper.net/us/en/products-services/icons-stencils/)
-* [Kemp Technologies LoadMaster](https://support.kemptechnologies.com/hc/en-us/articles/202018243-Kemp-LoadMaster-Visio-Stencils)
+* [Kemp Technologies LoadMaster](https://kemptechnologies1584728162.zendesk.com/hc/en-us/articles/360060266052-Kemp-LoadMaster-Visio-Stencils)
 * [Kubernetes](https://github.com/kubernetes/community/tree/master/icons)
 * [Lantronix, formerly UP Logix](https://uplogix.com/docs/pdf/visio/)
 * [Meinberg Global](https://www.meinbergglobal.com/english/sw/#visioshapes)
