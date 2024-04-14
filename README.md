@@ -7,9 +7,11 @@
 ![Visio documents](https://img.shields.io/badge/visio_documents-255-186ADE)
 
 # About
-This repository consolidate more than 3,100 Microsoft Visio artefacts that I have collected and used over the years. Your stencils and templates library does not have to be unique, everyone strives for consistency. Fork this repository and improve *your* library. Even better, send me an update :)
+This repository consolidate more than 3,100 Microsoft Visio artefacts that I have collected and used over the years. Your stencils and templates library does not have to be unique, everyone strives for consistency. Fork this repository and improve *your* library. Even better, send me an update :wink:
 
-> Obviously, I don't remember all the sources – refer to my [notes](Documents/notes.md) for more information. If you don't find something, try third party commercial shape vendors such as 3DN, NetZoom,Shape Source, or Visimation.
+Drawing scale should be set to 1”=10” which is the de facto industry standard for network VISIO shapes.
+
+> I try to keep my artefacts as _fresh_ as possible by manually accessing the vendors website on a regular basis. Refer to my [notes](Documents/notes.md) for more information.
 
 ## Structure
 ```
@@ -36,7 +38,12 @@ This repository consolidate more than 3,100 Microsoft Visio artefacts that I hav
 │   └── Methodologies
 └── stencils.md
 ```
-Drawing scale should be set to 1”=10” which is the de facto industry standard for network VISIO shapes.
+
+I normalize filenames:
+ * Replace all dashes and underscores with a space
+ * Add the vendor name as prefix
+ * Add the version as suffix usually in the v[year] format
+
 # Installation procedure
 
 1. Close [Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio)
