@@ -3,11 +3,11 @@
 
 # Everything you always wanted to know about my visio artefacts but were afraid to ask
 
-[Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio) has a big [user community](https://techcommunity.microsoft.com/t5/visio/ct-p/Visio), you can find stencils on many platforms including [reddit](https://www.reddit.com/r/Visio/).
+[Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio) has a big [user community](https://techcommunity.microsoft.com/t5/visio/ct-p/Visio), you can find stencils on many platforms including [reddit](https://www.reddit.com/r/Visio/). If you don't find something, try third party commercial shape vendors such as [3DN](https://3d-networking.com/3d-symbols/), [NetZoom](www.NetZoom.com), [Shape Source](www.shapesource.com), or [Visimation](www.visimation.com).
 
 I try to keep my artefacts as _fresh_ as possible by manually accessing the vendors website on a regular basis. 
  
-There is 600 IT stencils, sadly most vendors does not update them frequently. This repository also include more than 1100 IT stencils older than 2019 because I have them and organizations are still using them. If you don't find something, try third party commercial shape vendors such as [3DN](https://3d-networking.com/3d-symbols/), [NetZoom](www.NetZoom.com), [Shape Source](www.shapesource.com), or [Visimation](www.visimation.com).
+There is 600 IT stencils, sadly most vendors does not update them frequently. This repository also include more than 1100 IT stencils older than 2019 because I have them and organizations are still using them.
 
 ## Electronic
 
@@ -15,24 +15,25 @@ There is 600 IT stencils, sadly most vendors does not update them frequently. Th
 * [BB SmartWorx](https://www.bb-elec.com/Tech-Support/Visio-Stencil/Visio-Stencils-Download.aspx)
 * [CAELFFI Hydronic Solutions](https://www.caleffi.com/usa/en-us/blog/does-caleffi-have-product-stencils-visio-drawings)
 * [Corning Optical Communications](https://www.corning.com/optical-communications/emea/en/home/Resources/product-drawings.html)
-* [EVTRack access control](https://evtrack.com/utilities/)
+* [EVTrack Access Control](https://evtrack.com/utilities/)
 * [FMC Modeling](http://www.fmc-modeling.org/fmc_stencils)
-* [legrand data center solutions](https://www.legrand.com/datacenter/at-en/resources/tools/visio-stencils)
+* [Legrand Data Center Solutions](https://www.legrand.com/datacenter/at-en/resources/tools/visio-stencils)
+* [Leviton](https://stage.leviton.com/support/resources/product-support/network-solutions/visio-stencils)
 * [Premium-Line](https://www.premiumline-cabling.com/service_category/visio-stencils/)
 * [Rittal](https://www.rittal.com/com-en/content/en/support/downloads/Downloads.jsp?category=6/45&language=1)
 * [Taco](https://www.tacocomfort.com/knowledge-base/visio-stencils/)
-* [tekmar Design](https://www.watts.com/our-story/brands/tekmar/references/design-stencils)
+* [Tekmar Design](https://www.watts.com/our-story/brands/tekmar/references/design-stencils)
 * [Westernmo: industrial Ethernet switches and data communications products](https://www.bing.com/ck/a?!&&p=1afa00df28e16bc4JmltdHM9MTcxMjk2NjQwMCZpZ3VpZD0zZmMxMDdiYS1mMDJiLTZiMDEtMjFiMC0xM2E0ZjE4OTZhYWMmaW5zaWQ9NTMwMQ&ptn=3&ver=2&hsh=3&fclid=3fc107ba-f02b-6b01-21b0-13a4f1896aac&psq=westernmo+visio+stencils&u=a1aHR0cHM6Ly93d3cud2VzdGVybW8udXMvLS9tZWRpYS9GaWxlcy9WSVNJTy1zdGVuY2lscy93ZXN0ZXJtb192aXNpb190cmFpbi1uZXR3b3JrX3Byb2R1Y3RzLnZzcw&ntb=1)
 
 ### IT Generic
 
 * [ECCEMAN: 2D symbols for computer network diagrams](https://github.com/ecceman/affinity)
 * [MTMnet.com's Visio Icon & Stencil Library](https://mtmnet.com/visio_icons.htm)
-* [Visio Shapes for Card Access, Intrusion and CCTV](https://www.dropbox.com/sh/b2krkclusl4kuje/ynomFmczIf) – Created by Duncan Miller and based off of the Security Industry Associaion Standard CAD Symbols
+* [Visio Shapes for Card Access, Intrusion and CCTV: created by Duncan Miller and based off of the Security Industry Associaion Standard CAD Symbols](https://www.dropbox.com/sh/b2krkclusl4kuje/ynomFmczIf)
 
 ### IT Vendors
 
-* [A10 Networks](https://www.a10networks.com/wp-content/uploads/Visio-Thunder.zip) 64-bit AX Series Thunder Series, https://www.a10networks.com/wp-content/uploads/Visio-AX-Series-64-bit.zip, https://www.a10networks.com/wp-content/uploads/Visio-AX-Series-32-bit.zip
+* [A10 Networks](https://www.a10networks.com/wp-content/uploads/Visio-Thunder.zip)
 * [Adtran](https://adtran.com/web/url/visiostencils)
 * [Alibaba Cloud](https://us.alibabacloud.com/en)
 * [Allies Telesis](https://www.alliedtelesis.com/ca/en/search?keywords=visio)
@@ -43,14 +44,12 @@ There is 600 IT stencils, sadly most vendors does not update them frequently. Th
 * [bitbucket](https://bitbucket.org/vrtsystems/odf-extension-vrt-network-equipment/src/master/)
 * [BlackBox](https://www.blackbox.com/en-us/insights/visio-stencils)
 * [CABLExpress](https://www.cablexpress.com/resources/visio-stencils/)
-* [CheckPoint](https://support.checkpoint.com/results/sk/sk101866) & [netZoom complimentary stencils](https://visiostencils.com/mcs/CPST.html)
+* [CheckPoint](https://support.checkpoint.com/results/sk/sk101866) *and* [complimentary netZoom stencils](https://visiostencils.com/mcs/CPST.html)
 * [Ciena](https://www.ciena.com/insights/visio-stencils/3xxx.html)
 * [CISCO Meraki](https://meraki.cisco.com/lib/cisco_meraki_visio_stencils.vss)
 * [CISCO products](https://www.cisco.com/c/en/us/products/visio-stencil-listing.html) and [Conceptual Icons](https://www.cisco.com/c/en/us/about/brand-center/network-topology-icons.html)
 * [CommScope](https://www.commscope.com/resources/visio-stencils/)
 * [CyberPower](https://www.cyberpowersystems.com/resource_type/visio-stencil/)
-* [Design Decisions for VMware Validated Designs](https://github.com/rainpole/vvd-design-decisions)
-* [Diagrams for VMware Validated Design](https://github.com/rainpole/vvd-diagrams)
 * [Eaton](http://powerquality.eaton.in/support/documentation/visio-tech-drawings.asp)
 * [EdgeWave](https://www.edgewave.com/support/iprism-visio-stencils/)
 * [Emcor Enclosures](https://www.emcorenclosures.com/resources/visio/)
@@ -61,7 +60,7 @@ There is 600 IT stencils, sadly most vendors does not update them frequently. Th
 * [Fortinet](https://www.fortinet.com/resources/icon-library)
 * [Garland Technology](https://www.garlandtechnology.com/visio-stencils)
 * [GigaMon](https://www.gigamon.com/search-results.html?#t=Resources&sort=relevancy&f:@commonresourcetype=[Visio])
-* [Google Cloud](https://cloud.google.com/icons/) & [github](https://github.com/bcerniglia/omnigraffle-stencils/tree/main/GoogleCloud)
+* [Google Cloud](https://cloud.google.com/icons/) *and* [a github repository](https://github.com/bcerniglia/omnigraffle-stencils/tree/main/GoogleCloud)
 * [Hanwha Techwin America](https://www.hanwhasecurity.com/visio-design-tool/)
 * [HellermannTyton](https://www.htdata.co.uk/downloads/visio-stencils)
 * [Huawei](https://support.huawei.com/enterprise/en/info-finder/)
@@ -72,7 +71,6 @@ There is 600 IT stencils, sadly most vendors does not update them frequently. Th
 * [Kemp Technologies LoadMaster](https://support.kemptechnologies.com/hc/en-us/articles/202018243-Kemp-LoadMaster-Visio-Stencils)
 * [Kubernetes](https://github.com/kubernetes/community/tree/master/icons)
 * [Lantronix, formerly UP Logix](https://uplogix.com/docs/pdf/visio/)
-* [Leviton](https://stage.leviton.com/support/resources/product-support/network-solutions/visio-stencils)
 * [Meinberg Global](https://www.meinbergglobal.com/english/sw/#visioshapes)
 * [Microsoft](https://docs.microsoft.com/en-ca/azure/architecture/icons/)
 * [NVIDIA](https://developer.nvidia.com/networking/visio-stencils)
@@ -85,17 +83,17 @@ There is 600 IT stencils, sadly most vendors does not update them frequently. Th
 * [Raritan](https://www.raritan.com/resources/visio-stencils/P20)
 * [Riverbed](https://supportkb.riverbed.com/support/index?page=content&id=S15725)
 * [Splunk](https://docs.splunk.com/images/d/d6/Splunk_Documentation_Icons_August2018_vssx.zip)
-* [Synology](https://www.synology.com/en-global/support/download/DS120j#docs) and [Sean Paul Evans]((https://seanpaulevans.wordpress.com/2020/06/16/synology-visio-stencils/)
+* [Synology](https://www.synology.com/en-global/support/download/DS120j#docs) and [Sean Paul Evans](https://seanpaulevans.wordpress.com/2020/06/16/synology-visio-stencils/)
 * [TP-Link](https://www.tp-link.com/ca/support/faq/1520/) and [here](https://www.tp-link.com/local/support/download/)
 * [Tripp Lite](https://www.tripplite.com/support/visio-stencils)
 * [TrueNAS](https://www.truenas.com/docs/hardware/stencils/)
-* [Ubiquiti – full collection of images divided by product line](https://www.ubnt.com/marketing)
-* [Ubiquiti](https://www.dropbox.com/sh/yv4rf6rytm390ep/AABP9yb-5KXeIQIIQY75uMUZa?dl=0)
+* [Ubiquiti](https://www.ubnt.com/marketing) *and* [dropbox](https://www.dropbox.com/sh/yv4rf6rytm390ep/AABP9yb-5KXeIQIIQY75uMUZa?dl=0)
 * [Veeam](https://rhyshammond.com/veeam-visio-stencils/)
 * [Vericom](https://www.vericomsolutions.com/section/5502/visio-stencils)
 * [VIAVI Solutions](https://www.viavisolutions.com/en-us/ptv/observer-filters-visio-stencils)
-* [VMWare](https://vmware.com/go/stencils) and/or [github](https://github.com/rainpole/vmware-stencils)
-* [VTR Systems](https://www.vrt.com.au/downloads/vrt-network-equipment), [GitHub](https://github.com/pafnow/vrt-stencil-for-visio)
+* [VMWare](https://vmware.com/go/stencils) *and* [a github repository](https://github.com/rainpole/vmware-stencils)
+* [VMware Validated Design](https://github.com/rainpole/vvd-diagrams) *and* [Design Decisions](https://github.com/rainpole/vvd-design-decisions)
+* [VTR Systems](https://www.vrt.com.au/downloads/vrt-network-equipment) *and* [a github repository](https://github.com/pafnow/vrt-stencil-for-visio)
 * [WatchGuard](https://www.watchguard.com/wgrd-resource-center/visio-icons)
 * [WTI](https://www.wti.com/pages/visio-stencils)
 * [Zscaler](https://community.zscaler.com/t/visio-stencils-for-download/12379/5)
