@@ -1,0 +1,19 @@
+; https://editorconfig.org
+; https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties
+; https://www.barebones.com/support/technotes/editorconfig.html
+
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = space
+trim_trailing_whitespace = true
+insert_final_newline = true
+x-soft-wrap-text = true
+x-soft-wrap-mode = WindowWidth
+x-show-invisibles = true
+x-show-spaces = true
+[*.md]
+trim_trailing_whitespace = false
