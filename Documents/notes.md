@@ -26,6 +26,7 @@ The repository also include more than 1,200 IT stencils older than 2019 because 
 * [Tekmar Design](https://www.watts.com/our-story/brands/tekmar/references/design-stencils)
 * [Unipower](https://unipowerco.com/resources/visio-stencils/)
 * [Westernmo: industrial Ethernet switches and data communications products](https://www.bing.com/ck/a?!&&p=1afa00df28e16bc4JmltdHM9MTcxMjk2NjQwMCZpZ3VpZD0zZmMxMDdiYS1mMDJiLTZiMDEtMjFiMC0xM2E0ZjE4OTZhYWMmaW5zaWQ9NTMwMQ&ptn=3&ver=2&hsh=3&fclid=3fc107ba-f02b-6b01-21b0-13a4f1896aac&psq=westernmo+visio+stencils&u=a1aHR0cHM6Ly93d3cud2VzdGVybW8udXMvLS9tZWRpYS9GaWxlcy9WSVNJTy1zdGVuY2lscy93ZXN0ZXJtb192aXNpb190cmFpbi1uZXR3b3JrX3Byb2R1Y3RzLnZzcw&ntb=1)
+* [Omnitron Systems](https://www.omnitron-systems.com/omnitron-visio-stencils)
 
 ### IT Generic
 
