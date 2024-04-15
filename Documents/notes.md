@@ -19,10 +19,12 @@ The repository also include more than 1,200 IT stencils older than 2019 because 
 * [FMC Modeling](http://www.fmc-modeling.org/fmc_stencils)
 * [Legrand Data Center Solutions](https://www.legrand.com/datacenter/at-en/resources/tools/visio-stencils)
 * [Leviton](https://stage.leviton.com/support/resources/product-support/network-solutions/visio-stencils)
+* [Opto22](https://www.opto22.com/support/resources-tools/visio-stencils-of-groov-epic-and-groov-rio)
 * [Premium-Line](https://www.premiumline-cabling.com/service_category/visio-stencils/)
 * [Rittal](https://www.rittal.com/com-en/content/en/support/downloads/Downloads.jsp?category=6/45&language=1)
 * [Taco](https://www.tacocomfort.com/knowledge-base/visio-stencils/)
 * [Tekmar Design](https://www.watts.com/our-story/brands/tekmar/references/design-stencils)
+* [Unipower](https://unipowerco.com/resources/visio-stencils/)
 * [Westernmo: industrial Ethernet switches and data communications products](https://www.bing.com/ck/a?!&&p=1afa00df28e16bc4JmltdHM9MTcxMjk2NjQwMCZpZ3VpZD0zZmMxMDdiYS1mMDJiLTZiMDEtMjFiMC0xM2E0ZjE4OTZhYWMmaW5zaWQ9NTMwMQ&ptn=3&ver=2&hsh=3&fclid=3fc107ba-f02b-6b01-21b0-13a4f1896aac&psq=westernmo+visio+stencils&u=a1aHR0cHM6Ly93d3cud2VzdGVybW8udXMvLS9tZWRpYS9GaWxlcy9WSVNJTy1zdGVuY2lscy93ZXN0ZXJtb192aXNpb190cmFpbi1uZXR3b3JrX3Byb2R1Y3RzLnZzcw&ntb=1)
 
 ### IT Generic
