@@ -77,6 +77,7 @@ The repository also include more than 1,200 IT stencils older than 2019 because 
 * [Microsoft](https://docs.microsoft.com/en-ca/azure/architecture/icons/)
 * [NVIDIA](https://developer.nvidia.com/networking/visio-stencils)
 * [One Identity](https://support.oneidentity.com/active-roles/kb/4286795/ms-visio-stencils-templates)
+* [OpenGear](https://ftp.opengear.com/download/stencils/)
 * [Oracle](https://docs.oracle.com/en-us/iaas/Content/General/Reference/graphicsfordiagrams.htm)
 * [Palo Alto Network](https://www.paloaltonetworks.com/company/press-kit.html)
 * [Panduit](https://www.panduit.com/en/support/tools1/visio.html)
@@ -85,6 +86,7 @@ The repository also include more than 1,200 IT stencils older than 2019 because 
 * [Raritan](https://www.raritan.com/resources/visio-stencils/P20)
 * [Riverbed](https://supportkb.riverbed.com/support/index?page=content&id=S15725)
 * [Splunk](https://docs.splunk.com/images/d/d6/Splunk_Documentation_Icons_August2018_vssx.zip)
+* [SuperMicro](https://www.supermicro.com/mysupermicro/visio/)
 * [Synology](https://www.synology.com/en-global/support/download/DS120j#docs) and [Sean Paul Evans](https://seanpaulevans.wordpress.com/2020/06/16/synology-visio-stencils/)
 * [TP-Link](https://www.tp-link.com/ca/support/faq/1520/) and [here](https://www.tp-link.com/local/support/download/)
 * [Tripp Lite](https://www.tripplite.com/support/visio-stencils)
@@ -93,14 +95,12 @@ The repository also include more than 1,200 IT stencils older than 2019 because 
 * [Veeam](https://rhyshammond.com/veeam-visio-stencils/)
 * [Vericom](https://www.vericomsolutions.com/section/5502/visio-stencils)
 * [VIAVI Solutions](https://www.viavisolutions.com/en-us/ptv/observer-filters-visio-stencils)
-* [VMWare](https://vmware.com/go/stencils) *and* [a github repository](https://github.com/rainpole/vmware-stencils)
 * [VMware Validated Design](https://github.com/rainpole/vvd-diagrams) *and* [Design Decisions](https://github.com/rainpole/vvd-design-decisions)
+* [VMWare](https://vmware.com/go/stencils) *and* [a github repository](https://github.com/rainpole/vmware-stencils)
 * [VTR Systems](https://www.vrt.com.au/downloads/vrt-network-equipment) *and* [a github repository](https://github.com/pafnow/vrt-stencil-for-visio)
 * [WatchGuard](https://www.watchguard.com/wgrd-resource-center/visio-icons)
 * [WTI](https://www.wti.com/pages/visio-stencils)
 * [Zscaler](https://community.zscaler.com/t/visio-stencils-for-download/12379/5)
-* [OpenGear](https://ftp.opengear.com/download/stencils/)
-* [SuperMicro](https://www.supermicro.com/mysupermicro/visio/)
 
 ### Methodologies
 
