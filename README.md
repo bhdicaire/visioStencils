@@ -2,12 +2,12 @@
 ![GitHub last commit](https://img.shields.io/github/stars/bhdicaire/visioStencils?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE)
 ![GitHub forks](https://img.shields.io/github/forks/bhdicaire/visioStencils?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE)
 ![GitHub licence](https://img.shields.io/github/license/bhdicaire/visioStencils?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE)
-![Visio stencils](https://img.shields.io/badge/visio_shapes-2,965-186ADE)
-![Vision templates](https://img.shields.io/badge/visio_templates-72-186ADE)
-![Visio documents](https://img.shields.io/badge/visio_documents-255-186ADE)
+![Visio stencils](https://img.shields.io/badge/visio_shapes-2,661-186ADE)
+![Vision templates](https://img.shields.io/badge/visio_templates-80-186ADE)
+![Visio documents](https://img.shields.io/badge/visio_documents-709-186ADE)
 
 # About
-This repository consolidate more than 3,100 Microsoft Visio artefacts that I have collected and used over the years. Your stencils and templates library does not have to be unique, everyone strives for consistency. Fork this repository and improve *your* library. Even better, send me an update :wink:
+This repository consolidate more than 3,400 Microsoft Visio artefacts that I have collected and used over the years. Your stencils and templates library does not have to be unique, everyone strives for consistency. Fork this repository and improve *your* library. Even better, send me an update :wink:
 
 Drawing scale should be set to 1”=10” which is the de facto industry standard for network VISIO shapes.
 
