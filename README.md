@@ -18,14 +18,14 @@ Drawing scale should be set to 1”=10” which is the de facto industry standar
 .
 ├── LICENSE
 ├── README.md
-├── Documents
+├── Documents                        # `.vsd`and `.vsdx`
+│   ├── notes.md
 │   ├── IT Vendors
 │   ├── Maps
 │   ├── Methodologies
 │   ├── Microsoft
-│   ├── VMware Validated Design
-│   └── notes.md
-└── Stencils
+│   └── VMware Validated Design
+├── Stencils                         # `.vss`and `.vssx`
 │   ├── Computer Racks
 │   ├── Electronics
 │   ├── IT Generic
@@ -33,7 +33,7 @@ Drawing scale should be set to 1”=10” which is the de facto industry standar
 │   ├── IT Vendors (Legacy)
 │   ├── Methodologies
 │   └── UX
-└── Templates
+└── Templates                         # `.vst`and `.vstx`
     ├── Electronics
     ├── IT Vendors
     └── Methodologies
