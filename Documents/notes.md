@@ -89,7 +89,7 @@ The repository also include more than 1,200 IT stencils older than 2019 because 
 * [SuperMicro](https://www.supermicro.com/mysupermicro/visio/)
 * [Synology](https://www.synology.com/en-global/support/download/DS120j#docs) and [Sean Paul Evans](https://seanpaulevans.wordpress.com/2020/06/16/synology-visio-stencils/)
 * [TP-Link](https://www.tp-link.com/ca/support/faq/1520/) and [here](https://www.tp-link.com/local/support/download/)
-* [Tripp Lite](https://www.tripplite.com/support/visio-stencils)
+* [Tripp Lite](https://tripplite.eaton.com/support/visio-stencils)
 * [TrueNAS](https://www.truenas.com/docs/hardware/stencils/)
 * [Ubiquiti](https://www.ubnt.com/marketing) *and* [dropbox](https://www.dropbox.com/sh/yv4rf6rytm390ep/AABP9yb-5KXeIQIIQY75uMUZa?dl=0)
 * [Veeam](https://rhyshammond.com/veeam-visio-stencils/)
