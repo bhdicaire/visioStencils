@@ -14,17 +14,18 @@ Drawing scale should be set to 1”=10” which is the de facto industry standar
 > I try to keep my artefacts as _fresh_ as possible by manually accessing the vendors website on a regular basis. Refer to my [notes](Documents/notes.md) for more information.
 
 ## Structure
-```
+```markdown
 .
+├── LICENSE
+├── README.md
 ├── Documents
 │   ├── IT Vendors
 │   ├── Maps
 │   ├── Methodologies
 │   ├── Microsoft
-│   └── VMware Validated Design
-├── LICENSE
-├── README.md
-├── Stencils
+│   ├── VMware Validated Design
+│   └── notes.md
+└── Stencils
 │   ├── Computer Racks
 │   ├── Electronics
 │   ├── IT Generic
@@ -32,11 +33,11 @@ Drawing scale should be set to 1”=10” which is the de facto industry standar
 │   ├── IT Vendors (Legacy)
 │   ├── Methodologies
 │   └── UX
-├── Templates
-│   ├── Electronics
-│   ├── IT Vendors
-│   └── Methodologies
-└── stencils.md
+└── Templates
+    ├── Electronics
+    ├── IT Vendors
+    └── Methodologies
+
 ```
 
 I normalize filenames:
