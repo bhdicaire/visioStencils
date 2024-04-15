@@ -98,6 +98,8 @@ The repository also include more than 1,200 IT stencils older than 2019 because 
 * [WatchGuard](https://www.watchguard.com/wgrd-resource-center/visio-icons)
 * [WTI](https://www.wti.com/pages/visio-stencils)
 * [Zscaler](https://community.zscaler.com/t/visio-stencils-for-download/12379/5)
+* [OpenGear](https://ftp.opengear.com/download/stencils/)
+* [SuperMicro](https://www.supermicro.com/mysupermicro/visio/)
 
 ### Methodologies
 
