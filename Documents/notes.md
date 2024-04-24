@@ -92,7 +92,7 @@ The repository also include more than 1,200 IT stencils older than 2019 because 
 * [Tripp Lite](https://tripplite.eaton.com/support/visio-stencils)
 * [TrueNAS](https://www.truenas.com/docs/hardware/stencils/)
 * [Ubiquiti](https://www.ubnt.com/marketing) *and* [dropbox](https://www.dropbox.com/sh/yv4rf6rytm390ep/AABP9yb-5KXeIQIIQY75uMUZa?dl=0)
-* [Veeam](https://rhyshammond.com/veeam-visio-stencils/)
+* [Veeam](https://www.veeam.com/vmware-esx-stencils.html) &[Rhys Hammond](https://rhyshammond.com/veeam-visio-stencils/)
 * [Vericom](https://www.vericomsolutions.com/section/5502/visio-stencils)
 * [VIAVI Solutions](https://www.viavisolutions.com/en-us/ptv/observer-filters-visio-stencils)
 * [VMware Validated Design](https://github.com/rainpole/vvd-diagrams) *and* [Design Decisions](https://github.com/rainpole/vvd-design-decisions)
@@ -101,6 +101,7 @@ The repository also include more than 1,200 IT stencils older than 2019 because 
 * [WatchGuard](https://www.watchguard.com/wgrd-resource-center/visio-icons)
 * [WTI](https://www.wti.com/pages/visio-stencils)
 * [Zscaler](https://community.zscaler.com/t/visio-stencils-for-download/12379/5)
+* [Digi](https://hub.digi.com/support/products/search/product-resources/?q=visio%20stencil)
 
 ### Methodologies
 
