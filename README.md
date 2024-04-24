@@ -25,7 +25,7 @@ Drawing scale should be set to 1”=10” which is the de facto industry standar
 │   ├── Methodologies
 │   ├── Microsoft
 │   └── VMware Validated Design
-├── Stencils                         # `.vss`and `.vssx`
+├── Stencils                         # .vss and `.vssx`
 │   ├── Computer Racks
 │   ├── Electronics
 │   ├── IT Generic
@@ -55,8 +55,13 @@ I normalize filenames:
 You can do the same thing for templates (e.g., .vst, .vstm and .vstx) and the documents (e.g., .vsd, and .vsdx)
 
 In doubt refer to this [Microsoft instruction](https://support.microsoft.com/en-us/office/import-downloaded-stencils-74bbdce1-4872-4d5b-af4c-e93fa23f7008).
+
 # _visioStencils_ by Benoît H. Dicaire is shared with an [unlicense](https://github.com/bhdicaire/visioStencils/raw/main/LICENSE).
-For more information, please refer to <https://unlicense.org>
+We got documents, stencils, and templates from the internet or pull requests. Check my [notes](Documents/notes.md) for details.
+
+Use these to create awesome Visio diagrams as _intended_ their creators (e.g., fair use). In other words, please do not associate the artefacts with any illegal activities or use them in a way that is deceptive or harmful.
+
+No copyright infringement is done on purpose. If you own the content and want it removed, just ask.
 
 # Related projects
 * [omniGraffleStencils](https://github.com/bhdicaire/omniGraffleStencils)
