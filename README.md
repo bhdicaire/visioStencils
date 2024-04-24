@@ -25,7 +25,7 @@ Drawing scale should be set to 1”=10” which is the de facto industry standar
 │   ├── Methodologies
 │   ├── Microsoft
 │   └── VMware Validated Design
-├── Stencils                         # .vss and `.vssx`
+├── Stencils                         # `.vss` and `.vssx`
 │   ├── Computer Racks
 │   ├── Electronics
 │   ├── IT Generic
@@ -43,7 +43,7 @@ Drawing scale should be set to 1”=10” which is the de facto industry standar
 I normalize filenames:
  * Replace all dashes and underscores with a space
  * Add the vendor name as prefix
- * Add the version as suffix usually in the v[year] format
+ * Add the version as suffix usually in a v[year] format
 
 # Installation procedure
 
