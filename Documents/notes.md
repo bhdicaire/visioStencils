@@ -117,6 +117,7 @@ The repository also include more than 1,200 IT stencils older than 2019 because 
 * [LACATRE – Langage d'aide à la conception de systèmes temps réel](https://github.com/eoger/lacatre-visio)
 * [Open Smart Grid IATF 3.1](http://osgug.ucaiug.org/utilisec/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Futilisec%2FShared%20Documents%2FSecurity%20Visio%20Templates%20%2D%20Examples&View=%7b059E5611%2d3141%2d4B3E%2dAAA4%2dFE7645EE07EE%7d)
 * [ORM Foundation](https://www.ormfoundation.org/files/folders/visio_stencils/default.aspx)
+* [PERT COST](https://github.com/GitWatin/PERT-COST-Visio-Stencil)
 * [Subject Oriented Business Process Management also known as Abstract PASS (Parallel Activity Specification Schema)](https://subjective-me.jimdofree.com/visio-modelling/)
 * [SYSML](http://www.softwarestencils.com/sysml/index.html)
 * [UML 2.5](http://www.softwarestencils.com/uml/index.html)
@@ -128,6 +129,7 @@ The repository also include more than 1,200 IT stencils older than 2019 because 
 * [Domotic and IOT](https://github.com/rrobinet/Visio-Stencils)
 * [PAUL HERBER SOFTWARE](https://www.paulherber.co.uk/free-visio-shapes/)
 * [Featured Visio templates and diagrams on Microsoft web site](https://support.microsoft.com/en-us/office/featured-visio-templates-and-diagrams-27d4274b-5fc2-4f5c-8190-35ff1db34aa5)
+[Ryan Chupp's Stencils](https://github.com/dev2prog/Visio-Stencils)
 
 ### UX
 
