@@ -22,6 +22,7 @@ The repository also include more than 1,200 IT stencils older than 2019 because 
 * [Opto22](https://www.opto22.com/support/resources-tools/visio-stencils-of-groov-epic-and-groov-rio)
 * [Premium-Line](https://www.premiumline-cabling.com/service_category/visio-stencils/)
 * [Rittal](https://www.rittal.com/com-en/content/en/support/downloads/Downloads.jsp?category=6/45&language=1)
+[RRobinet]
 * [Taco](https://www.tacocomfort.com/knowledge-base/visio-stencils/)
 * [Tekmar Design](https://www.watts.com/our-story/brands/tekmar/references/design-stencils)
 * [Unipower](https://unipowerco.com/resources/visio-stencils/)
@@ -120,8 +121,10 @@ The repository also include more than 1,200 IT stencils older than 2019 because 
 * [SYSML](http://www.softwarestencils.com/sysml/index.html)
 * [UML 2.5](http://www.softwarestencils.com/uml/index.html)
 
+
 ### Miscellaneous
 
+* [Arcade Games](https://github.com/keshbach/Visio)
 * [Domotic and IOT](https://github.com/rrobinet/Visio-Stencils)
 * [PAUL HERBER SOFTWARE](https://www.paulherber.co.uk/free-visio-shapes/)
 * [Featured Visio templates and diagrams on Microsoft web site](https://support.microsoft.com/en-us/office/featured-visio-templates-and-diagrams-27d4274b-5fc2-4f5c-8190-35ff1db34aa5)

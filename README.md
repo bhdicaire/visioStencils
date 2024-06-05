@@ -2,12 +2,12 @@
 ![GitHub last commit](https://img.shields.io/github/stars/bhdicaire/visioStencils?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE)
 ![GitHub forks](https://img.shields.io/github/forks/bhdicaire/visioStencils?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE)
 ![GitHub licence](https://img.shields.io/github/license/bhdicaire/visioStencils?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE)
-![Visio stencils](https://img.shields.io/badge/visio_shapes-2,730-186ADE)
+![Visio stencils](https://img.shields.io/badge/visio_shapes-2,904-186ADE)
 ![Vision templates](https://img.shields.io/badge/visio_templates-80-186ADE)
-![Visio documents](https://img.shields.io/badge/visio_documents-842-186ADE)
+![Visio documents](https://img.shields.io/badge/visio_documents-869-186ADE)
 
 # About
-This repository consolidate more than 3,650 Microsoft Visio artefacts that I have collected and used over the years. Your stencils and templates library does not have to be unique, everyone strives for consistency. Fork this repository and improve *your* library. Even better, send me an update :wink:
+This repository consolidate more than 3,850 Microsoft Visio artefacts that I have collected and used over the years. Your stencils and templates library does not have to be unique, everyone strives for consistency. Fork this repository and improve *your* library. Even better, send me an update :wink:
 
 Drawing scale should be set to 1”=10” which is the de facto industry standard for network VISIO shapes.
 
@@ -59,7 +59,7 @@ In doubt refer to this [Microsoft instruction](https://support.microsoft.com/en-
 # _visioStencils_ by Benoît H. Dicaire is shared with an [unlicense](https://github.com/bhdicaire/visioStencils/raw/main/LICENSE).
 We got documents, stencils, and templates from the internet or pull requests. Check my [notes](Documents/notes.md) for details.
 
-Use these to create awesome Visio diagrams as _intended_ their creators (e.g., fair use). In other words, please do not associate the artefacts with any illegal activities or use them in a way that is deceptive or harmful.
+Use these to create awesome Visio diagrams as _intended_ by their creators (e.g., fair use). In other words, please do not associate the artefacts with any illegal activities or use them in a way that is deceptive or harmful.
 
 No copyright infringement is done on purpose. If you own the content and want it removed, just ask.
 
