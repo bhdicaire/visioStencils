@@ -4,7 +4,7 @@
 ![GitHub licence](https://img.shields.io/github/license/bhdicaire/visioStencils?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE)
 ![Visio stencils](https://img.shields.io/badge/visio_shapes-3,466-186ADE)
 ![Vision templates](https://img.shields.io/badge/visio_templates-80-186ADE)
-![Visio documents](https://img.shields.io/badge/visio_documents-904-186ADE)
+![Visio documents](https://img.shields.io/badge/visio_documents-906-186ADE)
 
 # About
 This repository consolidate more than 4,450 Microsoft Visio artefacts that I have collected and used over the years. Your stencils and templates library does not have to be unique, everyone strives for consistency. Fork this repository and improve *your* library. Even better, send me an update :wink:

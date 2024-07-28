@@ -76,6 +76,7 @@ The repository also include more than 1,200 IT stencils older than 2019 because 
 * [Lantronix, formerly UP Logix](https://uplogix.com/docs/pdf/visio/)
 * [Meinberg Global](https://www.meinbergglobal.com/english/sw/#visioshapes)
 * [Microsoft](https://docs.microsoft.com/en-ca/azure/architecture/icons/)
+* [Microplex])(https://www.microplex.com/support/visioShapes.html)
 * [NVIDIA](https://developer.nvidia.com/networking/visio-stencils)
 * [One Identity](https://support.oneidentity.com/active-roles/kb/4286795/ms-visio-stencils-templates)
 * [OpenGear](https://ftp.opengear.com/download/stencils/)
@@ -86,6 +87,7 @@ The repository also include more than 1,200 IT stencils older than 2019 because 
 * [QNAP](https://marketing.qnap.com/resource/qnap-visio-stencils/)
 * [Raritan](https://www.raritan.com/resources/visio-stencils/P20)
 * [Riverbed](https://supportkb.riverbed.com/support/index?page=content&id=S15725)
+* [Ruckus Networks](https://www.ruckusnetworks.com/resources/visio-stencils/)
 * [Splunk](https://docs.splunk.com/images/d/d6/Splunk_Documentation_Icons_August2018_vssx.zip)
 * [SuperMicro](https://www.supermicro.com/mysupermicro/visio/)
 * [Synology](https://www.synology.com/en-global/support/download/DS120j#docs) and [Sean Paul Evans](https://seanpaulevans.wordpress.com/2020/06/16/synology-visio-stencils/)
@@ -129,8 +131,9 @@ The repository also include more than 1,200 IT stencils older than 2019 because 
 * [Domotic and IOT](https://github.com/rrobinet/Visio-Stencils)
 * [PAUL HERBER SOFTWARE](https://www.paulherber.co.uk/free-visio-shapes/)
 * [Featured Visio templates and diagrams on Microsoft web site](https://support.microsoft.com/en-us/office/featured-visio-templates-and-diagrams-27d4274b-5fc2-4f5c-8190-35ff1db34aa5)
+[Visio MVPs.](http://visio.mvps.org/Downloads/default.html)
 [Ryan Chupp's Stencils](https://github.com/dev2prog/Visio-Stencils)
-
+[Shooting Course Design](https://www.frfrogspad.com/course.htm)
 ### UX
 
 * [Paper Plane: IA tools](http://www.paperplane.net/omnigraffle/)
