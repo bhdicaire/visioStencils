@@ -11,7 +11,7 @@ This repository consolidate more than 4,450 Microsoft Visio artefacts that I hav
 
 Drawing scale should be set to 1”=10” which is the de facto industry standard for network VISIO shapes.
 
-> I try to keep my artefacts as _fresh_ as possible by manually accessing the vendors website on a regular basis. Refer to my [notes](Documents/notes.md) for more information.
+> I try to keep my artefacts as _fresh_ as possible by manually accessing the vendors website on a regular basis. Refer to my [notes](Documents/notes.md) for more information. 
 
 ## Structure
 ```markdown

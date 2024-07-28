@@ -7,7 +7,7 @@
 
 I try to keep my artefacts as _fresh_ as possible by manually downloading them on a regular basis, sadly most vendors does not update them frequently. Furthermore, many stencils are only available to current customers via their support portal.
 
-The repository also include more than 1,200 IT stencils older than 2019 because I have them and organizations are still using them.
+The repository also include more than 1,500 IT stencils older than 2019 because I have them and organizations are still using them.
 
 ## Electronic
 
