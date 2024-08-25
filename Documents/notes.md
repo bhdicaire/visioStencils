@@ -109,6 +109,7 @@ The repository also include more than 1,500 IT stencils older than 2019 because 
 ### Methodologies
 
 * [ADAPT (Application Design for Analytical Processing Technologies)](http://www.symcorp.com/tech_expertise_design.html)
+[BA Sketchbook](http://www.its-all-design.com/ba-sketchbook-stencil-visio/)
 * [BPMN, CMMN, and DMN](https://www.trisotech.com/trisotech-free-visio-templates-bpmn-cmmn-dmn/)
 * [Business Intelligence – Data Vault Guru](https://github.com/PatrickCuba/thedatamustflow) Based on a book by Patrick Cuba
 * [C4](https://github.com/pihalve/c4model-visio-stencil)
